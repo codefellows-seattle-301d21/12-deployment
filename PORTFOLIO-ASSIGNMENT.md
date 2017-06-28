@@ -2,8 +2,6 @@
 
 Ready to share your portfolio with the world? Yes! Your mom will be so proud.
 
-Use what you practiced in pairs to deploy your portfolio site. The user stories are basically the same.
-
 ## User Stories: MVP
  1. As a developer, I want my portfolio to run in a development environment that closely matches production, so that I can reduce bugs related to infrastructure surprises.
   - You'll need to create a new Heroku app, and link it to your portfolio
